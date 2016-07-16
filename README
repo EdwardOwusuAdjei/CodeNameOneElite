@@ -1,0 +1,4 @@
+Able to block,redirect to another website and redirect to static page
+
+Run as ./tcpproxy_server
+will add ability to use values from config files
